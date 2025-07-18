@@ -1,11 +1,20 @@
 ---
-title: "home"
+title: "Yechan David Kim"
+image: Stotle.jpg
+toc: false
+about:
+  template: solana
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/yechan-kim-949510307
+    - text: Instagram
+      href: https://www.instagram.com/airmanhorizon/
+    - text: Email
+      href: mailto:yechan_kim@brown.edu
 ---
 
-This is a Quarto website.
+Hello! My name is Yechan D. Kim, and I’m an undergraduate student at Brown University, double-concentrating in Applied Mathematics–Economics and International and Public Affairs. I’ve excelled in coursework spanning data computing, cybersecurity, mathematics, and religious history. Previously, I served as president and editor-in-chief of my high school’s newsletter and interned at Samsung International, where I gained hands-on experience with one of the world’s leading AI innovators. Currently based in San Diego, you can often find me reading medieval history, pondering theology, debating philosophy, or scrolling through the "issues" tab on GitHub—usually with a Dr. Pepper in hand.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Currently, I am working with UCSD Professor Edward J. Watts, Chair in Byzantine Greek History and Co-Director of the Center for Hellenic Studies, on various AI projects to assist with his research. In particular, I developed an AI-powered database that summarizes documents and extracts key information to automatically generate a network diagram and a search feature. This AI search allows users to query any uploaded scholarly article and provides results supplemented with direct quotes. Furthermore, I developed a tool called "Eusebiask" in which an AI version of the church historian Eusebius responds to inquiries based on his Life of Constantine and Church History.

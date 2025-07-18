@@ -1,9 +1,33 @@
 ---
-title: "About"
+title: "More About Me"
 ---
 
-About this site
+![My full name in small seal script and the logo of this site.](logo.png){fig-align="left"}
 
-```{r}
-1 + 1
+As you may have deduced from my logo, main page description, and the picture of Aristotle, I am absolutely fascinated by different cultures, histories, and ideas. I would consider myself an aspiring polymath (a fancy way of saying I am non-committal) as I love to study everything about this world, and often there is such a strong connection between subjects that it does not beget much labor in researching multiple fields at once. However, if there were one area that I would gladly study for the rest of my life, it would be history: specifically, the history of ideas, such as the history of mathematics, philosophy, and... well... history itself.
+
+Currently, I am trying to do a deeper study into mathematics, specifically more abstract algebra and almost contemplative mathematical topics such as category theory, the foundations of set theory, Gödel's incompleteness theorems, and the philosophy of mathematics—topics that blur the line between logic and metaphysics. As history yields to interpretation and philosophy drifts through shifting truths, mathematics stands firm from age to age.
+
+I am an avid reader and am currently going through the works of Thomas Paine and a biography of Justinian by Peter Sarris. Make no mistake: I far prefer fiction over non-fiction as all sensible men do, but I supposed that it would be profitable to knock out some heartier works this summer. My favorite book is *Crime and Punishment* (very basic, I know, but it maintains a nostalgic grip on my heart), and the most inspiring work I've ever read is Seneca's letters. My long-term goal is to finish *War and Peace* and the Bible by the end of this year.
+
+I am as much a writer as I am a reader, though I’ve had few chances lately to stretch my vocabulary, something I hope to change by joining the *Brown Daily Herald* soon.
+
+I promise you I'm not just a hermit recluse, as you may have concluded so far! I run at least three miles daily and enjoy hiking across Southern California. Furthermore, I try my best to eat as naturally as possible and hit the gym ideally three times a week. I enjoy socializing with people of every creed and culture, and am currently learning Japanese to help me in this endeavor.
+
+Speaking of which, I also enjoy watching anime, playing JRPGs, and reading Japanese literature. I recently finished *Silence* by Shusaku Endo, which quickly became one of my favorite Asian novels and books overall. Among my favorite anime are *Vinland Saga*, *Mob Psycho 100*,and *Hunter x Hunter,* while my favorite JRPG is Persona 5.
+
+I am a Presbyterian Christian (aka a Reformed or Evangelical Catholic, as the reformers themselves would put it) and attend a Korean-American congregation. I enjoy deepening my understanding of the Christian faith and have been particularly inspired by St. Augustine’s *Confessions* and Martin Luther’s *The Bondage of the Will*, the latter of which has had a significant influence on my rhetorical style. Alongside this, I also strive to learn more about other faiths and belief systems, particularly Islam and Eastern religions, and have taken a course in Classical Chinese Philosophy to deepen my understanding.
+
+```{=html}
+<p class="formal">Let all that you do be done in love.</p>
+<p class="verse">-1 Corinthians 16:14</p>
+```
+
+![Søren Kierkegaard, a favorite philosopher-theologian of mine and my Instagram profile picture.](Kierkegaard.jpg){fig-align="center"}
+
+![James Manning (Princeton 1762), the first president of Brown University and a devout Calvinist minister of First Baptist Church in America. He was an important player in the American Revolution and sought greater religious freedom for Quakers and Jews.](James_Manning.jpg)
+
+```{=html}
+<p class="formal">In Deo Speramus</p>
+<p class="date">Anno Domini MMXXV</p>
 ```

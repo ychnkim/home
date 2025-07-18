@@ -1,21 +1,35 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "home"
+  title: "Yechan Kim"
+  favicon: gold-seal-real.png
   navbar:
-    left:
+    title: false
+    logo: logo2-white.png
+    right:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Main
+      - href: projects.qmd
+        text: Current Projects
+      - href: about.qmd
+        text: About Me
+      - href: CV.qmd
+        text: Curriculum Vitae
+  page-footer:
+    background: light
+    left: Copyright 2025, Yechan David Kim
+    right: I built this website with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/samanthacsik/samanthacsik.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank} -- GO SUPPORT QUARTO
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: styles.scss
+    mainfont: Source Sans 3
     css: styles.css
-    toc: true
+    toc: false
+    page-layout: full
+
 
 editor: visual
 
